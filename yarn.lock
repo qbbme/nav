@@ -134,7 +134,7 @@
   "resolved" "https://registry.npmmirror.com/binary-extensions/-/binary-extensions-2.2.0.tgz"
   "version" "2.2.0"
 
-"bluebird@^3.2.2", "bluebird@^3.5.1", "bluebird@^3.5.2", "bluebird@^3.5.5":
+"bluebird@^3.2.2", "bluebird@^3.5.0", "bluebird@^3.5.1", "bluebird@^3.5.2", "bluebird@^3.5.5":
   "integrity" "sha512-XpNj6GDQzdfW+r2Wnn7xiSAd7TM3jzkxGXBGTtWKuSXv1xUV+azxAm8jdWZN06QTQk+2N2XB9jRDkvbmQmcRtg=="
   "resolved" "https://registry.npmmirror.com/bluebird/-/bluebird-3.7.2.tgz"
   "version" "3.7.2"
@@ -622,6 +622,18 @@
     "resolve" "^1.11.0"
     "tildify" "^2.0.0"
 
+"hexo-deployer-git@^3.0.0":
+  "integrity" "sha512-U2Xewjab+rvUDNTcuYYnOxitkDXL3f5VMUH32jKDHs3OC4YFVGRoEaTTDVHskqr3KRi78Wohjc6BSRHOoG3oxA=="
+  "resolved" "https://registry.npmmirror.com/hexo-deployer-git/-/hexo-deployer-git-3.0.0.tgz"
+  "version" "3.0.0"
+  dependencies:
+    "bluebird" "^3.5.0"
+    "chalk" "^4.0.0"
+    "hexo-fs" "^3.0.1"
+    "hexo-util" "^2.1.0"
+    "moment" "^2.18.0"
+    "nunjucks" "^3.2.1"
+
 "hexo-front-matter@^2.0.0":
   "integrity" "sha512-IR3tjAyK2Ga/0a/WDAoNy5+n3ju2/mkuAsCDEeGgGLf5+7kkiOkkG/FrnueuYgz0h2MPfWDLBiDsSTCmB0sLCA=="
   "resolved" "https://registry.npmmirror.com/hexo-front-matter/-/hexo-front-matter-2.0.0.tgz"
@@ -743,7 +755,7 @@
   "resolved" "https://registry.npmmirror.com/hexo-theme-webstack/-/hexo-theme-webstack-2.1.0.tgz"
   "version" "2.1.0"
 
-"hexo-util@^2.0.0", "hexo-util@^2.4.0", "hexo-util@^2.5.0":
+"hexo-util@^2.0.0", "hexo-util@^2.1.0", "hexo-util@^2.4.0", "hexo-util@^2.5.0":
   "integrity" "sha512-xj1jUrId2qTe8L/tRizWWRl+j7X1Zzh5rCVtffboOU0p/EfbPomxIxDvntTHT3fcqgvLHsncqJF9V5j7+buOqA=="
   "resolved" "https://registry.npmmirror.com/hexo-util/-/hexo-util-2.6.1.tgz"
   "version" "2.6.1"
@@ -1070,7 +1082,7 @@
   dependencies:
     "moment" ">= 2.9.0"
 
-"moment@^2.22.2", "moment@>= 2.9.0":
+"moment@^2.18.0", "moment@^2.22.2", "moment@>= 2.9.0":
   "integrity" "sha512-c6YRvhEo//6T2Jz/vVtYzqBzwvPT95JBQ+smCytzf7c50oMZRsR/a4w88aD34I+/QVSfnoAnSBFPJHItlOMJVw=="
   "resolved" "https://registry.npmmirror.com/moment/-/moment-2.29.3.tgz"
   "version" "2.29.3"
