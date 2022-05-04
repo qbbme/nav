@@ -56,7 +56,6 @@ jobs:
           ssh-keyscan github.com >> ~/.ssh/known_hosts
           git config --global user.name $GIT_USER
           git config --global user.email $GIT_EMAIL
-          git branch
 
       - name: Install dependencies
         run: |
@@ -64,4 +63,4 @@ jobs:
 
       - name: Deploy hexo
         run: |
-          git branch && npm run deploy
+          npm run clean && npm run deploy
