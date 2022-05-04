@@ -1,6 +1,14 @@
 name: Deploy
 
 on:
+  # Trigger on Pull Requests against the master branch.
+  pull_request_target:
+    branches:
+      - main
+    types:
+      - opened
+      - synchronize
+  # Trigger on Pull Requests to the master branch.
   push:
     branches:
       - main
