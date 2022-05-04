@@ -1,7 +1,11 @@
+- name: vitalik.eth
+  url: https://twitter.com/VitalikButerin/
+  img: https://pbs.twimg.com/profile_images/977496875887558661/L86xyLF4_400x400.jpg
+  description: Ethereum
 - name: xinyii.eth
   url: https://twitter.com/xinyi_eth/
   img: https://pbs.twimg.com/profile_images/1515732968991440896/PYXfPfEk_400x400.jpg
-  description: KOL #ETH#Crypto#NFT|
+  description: KOL ETH / Crypto / NFT  
 - name: 冷风Meta
   url: https://twitter.com/xinyi_eth/
   img: https://pbs.twimg.com/profile_images/1476510227088707586/AD6l2DSZ_400x400.jpg
