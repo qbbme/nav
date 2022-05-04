@@ -61,9 +61,9 @@ menu:
       - name: DEX K线
         icon: fas fa-blog
         config: Line
-      - name: Twitter
+      - name: MEV
         icon: fas fa-blog
-        config: Twitter        
+        config: MEV        
 
 devTools:
   - name: Github
