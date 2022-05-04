@@ -17,7 +17,7 @@ env:
   GIT_USER: Panda
   GIT_EMAIL: itwujunze@gmail.com
   DEPLOY_REPO: qbbme/nav
-  DEPLOY_BRANCH: gh-pages
+  DEPLOY_BRANCH: main
 
 jobs:
   build:
