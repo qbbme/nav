@@ -48,7 +48,10 @@ menu:
     config: Scan
   - name: 开发者工具
     icon: far fa-star
-    config: DevTools    
+    config: DevTools  
+  - name: KOL 专栏
+    icon: far fa-star
+    config: KOL       
   - name: 其他工具
     icon: fas fa-tools
     submenu:
