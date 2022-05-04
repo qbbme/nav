@@ -1,0 +1,12 @@
+- name: Dune
+  url: https://dune.com/
+  img: https://dune.com/assets/glyph-128w.png
+  description: Query human-readable data with SQL
+- name: Dappradar
+  url: https://dappradar.com/
+  img: https://dappradar.com/favicon-32x32.png
+  description: Blockchain Dapps Ranked
+- name: Twitterscan 
+  url: https://twitterscan.com/
+  img: https://twitterscan.com/img/icons/favicon-32x32.png/images/logos/github.png
+  description: Twitterscan 
