@@ -92,7 +92,7 @@ aboutPage:
     html: '<blockquote><p>BlockChain Crypto Navigate</p></blockquote>'
   webmaster:
     head: 关于站长
-    name: Jack
+    name: QuickBlockBench
     url: https://github.com/
     img: /images/logo-collapsed.png
     description: Geek

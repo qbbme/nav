@@ -3,13 +3,13 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Quick Block Bench
+title: Quick Block Bench Navigation
 subtitle: 'BlockChain Tools Navigation'
-description: 'BlockChain Tools Navigation | DeFi Tools Navigation | NFT Tools Navigation'
+description: 'BlockChain Tools Navigation | DeFi Tools Navigation | NFT Tools Navigation | MEV | ETH BSC SOL'
 keywords:
-author: Panda
+author: QuickBlockBench
 language: en
-timezone: ''
+timezone: 'Asia/Singapore'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
