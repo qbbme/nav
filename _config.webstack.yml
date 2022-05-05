@@ -37,6 +37,9 @@ menu:
   - name: 加密钱包
     icon: far fa-star
     config: Wallet
+  - name: 科学家工具箱
+    icon: far fa-star
+    config: ScientistTools    
   - name: NFT工具
     icon: far fa-star
     config: NFT
