@@ -2,3 +2,31 @@
   url: https://www.4byte.directory/
   img: https://pktoken.com/wp-content/uploads/2021/12/%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20211210182054.png
   description: Function calls in the Ethereum Virtual Machine are specified by the first four bytes of data sent with a transaction. These 4-byte signatures are defined as the first four bytes of the Keccak hash (SHA3) of the canonical representation of the function signature. The database also contains mappings for event signatures. Unlike function signatures, they are defined as 32-bytes of the Keccak hash (SHA3) of the canonical form of the event signature. Since this is a one-way operation, it is not possible to derive the human-readable representation of the function or event from the bytes signature. This database is meant to allow mapping those bytes signatures back to their human-readable versions.
+- name: 
+  url: https://ethtx.info/
+  img: https://wujunze.com/blog-images/r/pic/20220507123423.png
+  description: EthTx Transaction Decoder 
+- name: Tenderly Dashboard
+  url: https://dashboard.tenderly.co/ 
+  img: https://dashboard.tenderly.co/static/media/logo-horizontal.svg
+  description: Tenderly is an Ethereum monitoring, debugging and analytics platform. It empowers blockchain teams and individuals by providing a powerful Debugger, intuitive Gas Profiler, Transaction Simulations, Monitoring and Alerting capabilities, Advanced Analytics and so much more.
+- name: Transaction visualization
+  url: https://versatile.blocksecteam.com/tx
+  img: https://versatile.blocksecteam.com/img/logo.7f995b55.png
+  description: Versatile Transaction Decoder   
+- name: Online Solidity Decompiler
+  url: https://versatile.blocksecteam.com/tx
+  img: https://versatile.blocksecteam.com/img/logo.7f995b55.png
+  description: This tool decompiles Ethereum contract bytecode into more readable Solidity-like code, allowing for better understanding of such contracts. 
+- name: Ethereum dev tools
+  url: https://www.deth.net/
+  img: https://www.deth.net/img/logo.png
+  description: TypeChain  dethcode eth-sdk 
+- name: Arbitrage Scan
+  url: https://eigenphi.io/
+  img: https://wujunze.com/blog-images/r/pic/20220507130243.png
+  description: MEV Contracts on ethereum have made a total profit of $1,825,414.56 in 7 days, through 18624 arbitrage transactions.     
+- name: Eveem.org - showing contract sources since 2018.
+  url: https://eveem.org/
+  img: https://eveem.org/favicon.ico
+  description: Search Eveem for decompiled smart contracts   
