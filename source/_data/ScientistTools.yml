@@ -15,8 +15,8 @@
   img: https://versatile.blocksecteam.com/img/logo.7f995b55.png
   description: Versatile Transaction Decoder   
 - name: Online Solidity Decompiler
-  url: https://versatile.blocksecteam.com/tx
-  img: https://versatile.blocksecteam.com/img/logo.7f995b55.png
+  url: https://ethervm.io/decompile
+  img: https://wujunze.com/blog-images/r/pic/20220507145417.png
   description: This tool decompiles Ethereum contract bytecode into more readable Solidity-like code, allowing for better understanding of such contracts. 
 - name: Ethereum dev tools
   url: https://www.deth.net/
