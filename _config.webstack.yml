@@ -32,13 +32,13 @@ githubCorner: '<a href="https://github.com/qbbme/nav" class="github-corner" aria
 expandAll: false
 menu:
   - name: 数据分析
-    icon: far fa-star
+    icon: far fa-analytics
     config: Analyses
   - name: 加密钱包
-    icon: far fa-star
+    icon: far fa-wallet
     config: Wallet
   - name: 科学家工具箱
-    icon: far fa-star
+    icon:  far fa-toolbox
     config: ScientistTools    
   - name: NFT工具
     icon: far fa-star
