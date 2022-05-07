@@ -67,10 +67,10 @@ menu:
         icon: fas fa-tools
         config: Bridge
       - name: DEX K线
-        icon: fa-solid fa-chart-line
+        icon: fa fa-chart-line
         config: Line
       - name: MEV
-        icon: fa-solid fa-robot
+        icon: fas fa-robot
         config: MEV        
 
 devTools:
