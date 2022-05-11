@@ -14,3 +14,19 @@
   url: https://twitter.com/nansen_ai  
   img: https://pbs.twimg.com/profile_images/1477941151797682177/-Bik1hBN_400x400.jpg  
   description: analyze 100M+ labeled wallets & their activities
+- name: Crypto Bubbles
+  url: https://cryptobubbles.net/  
+  img: https://cryptobubbles.net/images/logo64.png  
+  description: Interactive visualization tool for the cryptocurrency market
+- name: DefiLlama - DeFi Dashboard
+  url: https://defillama.com/ 
+  img: https://pbs.twimg.com/profile_images/1477941151797682177/-Bik1hBN_400x400.jpg  
+  description: DefiLlama is a DeFi TVL aggregator. It is committed to providing accurate data without ads or sponsored content, as well as transparency.
+- name: Cryptocurrency Prices, Charts, and Crypto Market Cap | CoinGecko
+  url: https://www.coingecko.com/
+  img: https://static.coingecko.com/s/coingecko-logo-white-99d39c22910707ffddb7aa7090753ca2089eb1813440286da14927a723b2d2d6.png  
+  description: View top cryptocurrency prices live, crypto charts, market cap, and trading volume. Discover today’s new and trending coins, top crypto gainers and losers in the market. 
+- name: Cryptocurrency Prices, Charts And Market Capitalizations | CoinMarketCap
+  url: https://coinmarketcap.com/
+  img: https://s2.coinmarketcap.com/static/cloud/img/coinmarketcap_1.svg?_=137616c  
+  description:  Top cryptocurrency prices and charts, listed by market capitalization. Free access to current and historic data for Bitcoin and thousands of altcoins.
