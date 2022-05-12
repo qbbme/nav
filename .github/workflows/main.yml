@@ -64,3 +64,17 @@ jobs:
       - name: Deploy hexo
         run: |
           npm run clean && npm run deploy
+      - name: Notification
+        uses: erguotou520/instant-access-action@0.0.4
+        if: ${{ success() }}
+        with:
+          channel: '63cc905b9aa94085a52bfcb9548b3688'
+          head: '{{branchName}} deploy succeed.'
+          body: '{{author}} commit "{{commitMessage}}" on {{repositoryName}}#{{branchName}} branch at {{commitTime}}'
+      - name: Notification
+        uses: erguotou520/instant-access-action@0.0.4
+        if: ${{ failure() }}
+        with:
+          channel: '63cc905b9aa94085a52bfcb9548b3688'
+          head: '{{branchName}} deploy failed.'
+          body: '{{author}} commit "{{commitMessage}}" on {{repositoryName}}#{{branchName}} branch at {{commitTime}}'          
