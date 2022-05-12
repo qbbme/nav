@@ -1,0 +1,12 @@
+- name: Ethereum
+  url: https://ethereum.org/
+  img: https://ethereum.org/static/a110735dade3f354a46fc2446cd52476/f3a29/eth-home-icon.webp
+  description: Ethereum is the community-run technology powering the cryptocurrency ether (ETH) and thousands of decentralized applications.
+- name: Bitcoin
+  url: https://www.cointofu.com/cross-chain-bridge
+  img: https://bitcoin.org/img/icons/logotop.svg
+  description: Bitcoin is an innovative payment network and a new kind of money.
+- name: Dfinity 
+  url: https://dfinity.org/
+  img: https://wujunze.com/blog-images/r/pic/20220512171156.png
+  description: Infinite blockchain that serves web
