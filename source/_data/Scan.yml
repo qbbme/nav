@@ -1,0 +1,12 @@
+- name: Etherscan
+  url: https://etherscan.io/
+  img: https://etherscan.io/assets/svg/logos/logo-etherscan.svg
+  description: Etherscan allows you to explore and search the Ethereum blockchain for transactions, addresses, tokens, prices and other activities taking place on Ethereum (ETH)
+- name: BscScan
+  url: https://bscscan.com/
+  img: https://bscscan.com/images/logo-bscscan.svg
+  description: BscScan allows you to explore and search the Binance blockchain for transactions, addresses, tokens, prices and other activities taking place on Binance (BNB)
+- name: BTCScan 
+  url: https://btcscan.org/
+  img: https://btcscan.org/img/favicon.png
+  description: Bitcoin Blockchain Explorer: find any bitcoin transaction with BTCScan
