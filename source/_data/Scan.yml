@@ -9,4 +9,4 @@
 - name: BTCScan 
   url: https://btcscan.org/
   img: https://btcscan.org/img/favicon.png
-  description: Bitcoin Blockchain Explorer: find any bitcoin transaction with BTCScan
+  description: Bitcoin Blockchain Explorer
