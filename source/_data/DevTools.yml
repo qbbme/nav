@@ -1,4 +1,12 @@
-- name: Online ABI Encoding Service
-  url: https://abi.hashex.org/
-  img: https://wujunze.com/blog-images/r/pic/20220606171529.png
-  description: Online ABI Encoding Service
+- name: Hardhat
+  url: https://hardhat.org/
+  img: https://hardhat.org/_next/static/media/hardhat-logo.5c5f687b.svg
+  description: Ethereum development environment for professionals  
+- name: Foundry
+  url: https://getfoundry.sh/
+  img: https://getfoundry.sh/logo.png
+  description: Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.
+- name: Ethereum dev tools
+  url: https://www.deth.net/
+  img: https://www.deth.net/img/logo.png
+  description: TypeChain  dethcode eth-sdk  
