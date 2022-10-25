@@ -1,0 +1,12 @@
+- name: DEXTools
+  url: https://www.dextools.io/app/
+  img: https://www.dextools.io/app/assets/img/logo/apple-touch-icon.png
+  description: DEXTools, the gateway to DEFI, real-time charts, history and all token info from blockchain.
+- name: DEX Screener
+  url: https://dexscreener.com/
+  img: https://dexscreener.com/favicon.ico
+  description: Realtime price charts and trading history on DEXes across Ethereum, BSC, Polygon, Avalanche, Fantom, Harmony, Cronos, Arbitrum, Optimism and more.
+- name: AVE
+  url: https://ave.ai/
+  img: https://ave.ai/static/img/ave-logo.b550af60.svg
+  description:  Realtime price charts and trading history on DEXes.

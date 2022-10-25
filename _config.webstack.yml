@@ -39,7 +39,7 @@ menu:
   - name: 加密钱包
     icon: fas fa-wallet
     config: Wallet
-  - name: 科学家工具箱
+  - name: 科学家工具
     icon:  fas fa-tools
     config: ScientistTools    
   - name: NFT工具
@@ -50,16 +50,7 @@ menu:
     config: Chain    
   - name: 区块浏览器
     icon: fab fa-firefox-browser
-    config: Scan
-  - name: 开发者工具
-    icon: fas fa-code
-    config: DevTools  
-  - name: KOL 专栏
-    icon: fas fa-star-and-crescent
-    config: KOL  
-  - name: 社群
-    icon: fas fa-comment-alt
-    config: Community           
+    config: Scan    
   - name: 其他工具
     icon: fas fa-angle-double-right
     submenu:
@@ -68,7 +59,7 @@ menu:
         config: Bridge
       - name: DEX K线
         icon: fa fa-chart-line
-        config: Line
+        config: DEXLine
       - name: MEV
         icon: fas fa-robot
         config: MEV        

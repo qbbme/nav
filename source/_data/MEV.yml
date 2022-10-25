@@ -1,0 +1,12 @@
+- name: MAXIMAL EXTRACTABLE VALUE (MEV)
+  url: https://ethereum.org/en/developers/docs/mev/
+  img: https://d33wubrfki0l68.cloudfront.net/fcd4ecd90386aeb50a235ddc4f0063cfbb8a7b66/4295e/static/bfc04ac72981166c740b189463e1f74c/40129/eth-diamond-black-white.jpg
+  description: Maximal extractable value (MEV) refers to the maximum value that can be extracted from block production in excess of the standard block reward and gas fees by including, excluding, and changing the order of transactions in a block.    
+- name: MEV-Explore
+  url: https://explore.flashbots.net/
+  img: https://explore.flashbots.net/static/media/Robot_Emoji_OG.06639373.png
+  description: MEV Explore from Flashbots
+- name: Flashbots Docs
+  url: https://docs.flashbots.net/
+  img: https://user-images.githubusercontent.com/116939/179831878-dc6a0f76-94f4-46cc-bafd-18a3a4b58ea4.png
+  description:   Flashbots is a research and development organization working on mitigating the negative externalities of current Maximal Extractable Value (from now on MEV) extraction techniques and avoiding the existential risks MEV could cause to state-rich blockchains like Ethereum.   

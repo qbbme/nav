@@ -2,6 +2,10 @@
   url: https://www.4byte.directory/
   img: https://pktoken.com/wp-content/uploads/2021/12/%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20211210182054.png
   description: Function calls in the Ethereum Virtual Machine are specified by the first four bytes of data sent with a transaction. These 4-byte signatures are defined as the first four bytes of the Keccak hash (SHA3) of the canonical representation of the function signature. The database also contains mappings for event signatures. Unlike function signatures, they are defined as 32-bytes of the Keccak hash (SHA3) of the canonical form of the event signature. Since this is a one-way operation, it is not possible to derive the human-readable representation of the function or event from the bytes signature. This database is meant to allow mapping those bytes signatures back to their human-readable versions.
+- name: Contract Library for the Ethereum and Fantom blockchains by Dedaub
+  url: https://library.dedaub.com/
+  img: https://library.dedaub.com/img/clLogo.svg
+  description: A full decompilation and automatic security analysis of all contracts on the Ethereum and the Fantom blockchains. Updated hourly with new contracts uploaded to both networks. Analysis results by Dedaub.
 - name: 
   url: https://ethtx.info/
   img: https://wujunze.com/blog-images/r/pic/20220507123423.png
@@ -22,11 +26,23 @@
   url: https://eigenphi.io/
   img: https://wujunze.com/blog-images/r/pic/20220507130243.png
   description: MEV Contracts on ethereum have made a total profit of $1,825,414.56 in 7 days, through 18624 arbitrage transactions.     
-- name: Eveem.org - showing contract sources since 2018.
-  url: https://eveem.org/
-  img: https://eveem.org/favicon.ico
-  description: Search Eveem for decompiled smart contracts
 - name: Online ABI Encoding Service
   url: https://abi.hashex.org/
   img: https://wujunze.com/blog-images/r/pic/20220606171529.png
   description: Online ABI Encoding Service  
+- name: Bloxy 
+  url: https://bloxy.info/
+  img: https://bloxy.info/assets/bloxy-ea0bc51fdfccc398df3217b8fd4c58e6380fcbd4f2bdd0dd2ae164bd1b902ae0.svg
+  description: Online Cash Flow 
+- name: Hardhat
+  url: https://hardhat.org/
+  img: https://hardhat.org/_next/static/media/hardhat-logo.5c5f687b.svg
+  description: Ethereum development environment for professionals  
+- name: Foundry
+  url: https://getfoundry.sh/
+  img: https://getfoundry.sh/logo.png
+  description: Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.
+- name: Ethereum dev tools
+  url: https://www.deth.net/
+  img: https://www.deth.net/img/logo.png
+  description: TypeChain  dethcode eth-sdk    

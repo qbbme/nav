@@ -38,4 +38,11 @@
   url: https://flipside.xyz/
   img: https://flipsidecrypto.xyz/favicon.ico
   description: Get paid to learn about protocols & chains, and level up to become a crypto-SQL superstar!
- 
+- name:  Bitquery
+  url: https://explorer.bitquery.io/
+  img: https://bitquery.io/wp-content/uploads/2020/09/bitquery_logo_w.png
+  description: Track Blockchain transaction for 20+ blockchains, check Bitcoin explorer, Ethereum explorer and other blockchain explorers by Bitquery
+- name: Footprint Analytics - Crypto Analysis Dashboards
+  url: https://www.footprint.network/dashboards
+  img: https://statichk.footprint.network/img_nav_logo_v5.svg
+  description: Footprint is a powerful yet easy-to-use analytics tool to uncover and visualize blockchain data.     

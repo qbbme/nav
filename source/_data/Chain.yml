@@ -1,6 +1,6 @@
 - name: Ethereum
   url: https://ethereum.org/
-  img: https://ethereum.org/static/a110735dade3f354a46fc2446cd52476/f3a29/eth-home-icon.webp
+  img: https://d33wubrfki0l68.cloudfront.net/fcd4ecd90386aeb50a235ddc4f0063cfbb8a7b66/4295e/static/bfc04ac72981166c740b189463e1f74c/40129/eth-diamond-black-white.jpg
   description: Ethereum is the community-run technology powering the cryptocurrency ether (ETH) and thousands of decentralized applications.
 - name: Bitcoin
   url: https://www.cointofu.com/cross-chain-bridge
