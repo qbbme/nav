@@ -6,7 +6,7 @@
   url: https://explore.flashbots.net/
   img: https://explore.flashbots.net/static/media/Robot_Emoji_OG.06639373.png
   description: MEV Explore from Flashbots
-- name: Flashbots Docs
-  url: https://docs.flashbots.net/
-  img: https://user-images.githubusercontent.com/116939/179831878-dc6a0f76-94f4-46cc-bafd-18a3a4b58ea4.png
-  description:   Flashbots is a research and development organization working on mitigating the negative externalities of current Maximal Extractable Value (from now on MEV) extraction techniques and avoiding the existential risks MEV could cause to state-rich blockchains like Ethereum.   
+- name: MEV Watch
+  url: https://www.mevwatch.info/
+  img: https://www.mevwatch.info/favicon.ico
+  description: Some MEV-Boost relays are regulated under OFAC and will censor certain transactions. Use this tool to observe the effect it's having on Ethereum blocks.
