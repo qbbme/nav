@@ -46,3 +46,7 @@
   url: https://www.deth.net/
   img: https://www.deth.net/img/logo.png
   description: TypeChain  dethcode eth-sdk    
+- name: Ethereum Unit Converter
+  url: https://eth-converter.com
+  img: https://eth-converter.com/ico.png
+  description: Ether to Gwei, Wei, Finney, Szabo, Shannon etc.      
