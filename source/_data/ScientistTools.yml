@@ -49,4 +49,8 @@
 - name: Ethereum Unit Converter
   url: https://eth-converter.com
   img: https://eth-converter.com/ico.png
-  description: Ether to Gwei, Wei, Finney, Szabo, Shannon etc.      
+  description: Ether to Gwei, Wei, Finney, Szabo, Shannon etc. 
+- name: Eth95.exe | An Instant UI for Smart Contracts
+  url: https://eth95.dev
+  img: https://wujunze.com/blog-images/r/pic/20221225204728.png
+  description: A Windows 95 themed UI for interacting with Ethereum smart contracts.    
