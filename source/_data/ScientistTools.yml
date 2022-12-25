@@ -15,7 +15,7 @@
   img: https://dashboard.tenderly.co/static/media/logo-horizontal.svg
   description: Tenderly is an Ethereum monitoring, debugging and analytics platform. It empowers blockchain teams and individuals by providing a powerful Debugger, intuitive Gas Profiler, Transaction Simulations, Monitoring and Alerting capabilities, Advanced Analytics and so much more.
 - name: Transaction visualization
-  url: https://versatile.blocksecteam.com/tx
+  url: https://phalcon.blocksec.com/
   img: https://versatile.blocksecteam.com/img/logo.7f995b55.png
   description: Versatile Transaction Decoder   
 - name: Online Solidity Decompiler
