@@ -45,4 +45,8 @@
 - name: Footprint Analytics - Crypto Analysis Dashboards
   url: https://www.footprint.network/dashboards
   img: https://statichk.footprint.network/img_nav_logo_v5.svg
-  description: Footprint is a powerful yet easy-to-use analytics tool to uncover and visualize blockchain data.     
+  description: Footprint is a powerful yet easy-to-use analytics tool to uncover and visualize blockchain data. 
+- name: DeBank | The Web3 Messenger & Best Web3 Portfolio Tracker
+  url: https://debank.com/
+  img: https://debank.com/192.png
+  description: The real Web3-native messenger and the best web3 portfolio tracker that covers all your tokens, DeFi protocols, NFTs across all EVM chains.   
