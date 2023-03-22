@@ -49,4 +49,8 @@
 - name: DeBank | The Web3 Messenger & Best Web3 Portfolio Tracker
   url: https://debank.com/
   img: https://debank.com/192.png
-  description: The real Web3-native messenger and the best web3 portfolio tracker that covers all your tokens, DeFi protocols, NFTs across all EVM chains.   
+  description: The real Web3-native messenger and the best web3 portfolio tracker that covers all your tokens, DeFi protocols, NFTs across all EVM chains.
+- name: Live Ethereum TPS data
+  url: https://ethtps.info/
+  img: Live Ethereum L2, rollups + sidechains TPS data
+  description: Footprint is a powerful yet easy-to-use analytics tool to uncover and visualize blockchain data.  
