@@ -53,4 +53,8 @@
 - name: Eth95.exe | An Instant UI for Smart Contracts
   url: https://eth95.dev
   img: https://wujunze.com/blog-images/r/pic/20221225204728.png
-  description: A Windows 95 themed UI for interacting with Ethereum smart contracts.    
+  description: A Windows 95 themed UI for interacting with Ethereum smart contracts. 
+- name: Icevision
+  url: https://www.icevision.xyz/
+  img: https://www.icevision.xyz/favicon.ico
+  description: A visual block explorer, for making the open state intelligible.    
