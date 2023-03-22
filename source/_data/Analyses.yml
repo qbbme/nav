@@ -52,5 +52,9 @@
   description: The real Web3-native messenger and the best web3 portfolio tracker that covers all your tokens, DeFi protocols, NFTs across all EVM chains.
 - name: Live Ethereum TPS data
   url: https://ethtps.info/
-  img: Live Ethereum L2, rollups + sidechains TPS data
-  description: Footprint is a powerful yet easy-to-use analytics tool to uncover and visualize blockchain data.  
+  img: https://ethtps.info/favicon.ico
+  description: Live Ethereum L2, rollups + sidechains TPS data
+- name: L2BEAT – The state of the layer two ecosystem
+  url: https://l2beat.com
+  img: https://l2beat.com/favicon.png
+  description: L2BEAT is an analytics and research website about Ethereum layer 2 scaling. Here you will find in depth comparison of major protocols live on Ethereum today.  
