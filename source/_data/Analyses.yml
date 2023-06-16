@@ -58,3 +58,8 @@
   url: https://l2beat.com
   img: https://l2beat.com/favicon.png
   description: L2BEAT is an analytics and research website about Ethereum layer 2 scaling. Here you will find in depth comparison of major protocols live on Ethereum today.  
+- name: Blockchain Transaction Visualizer - TxStreet.com
+  url: https://txstreet.com/v/eth-btc
+  img: https://txstreet.com/static/img/icons/favicon-32x32.png?v=1.4.1
+  description: Cryptocurrency (Bitcoin, Ethereum etc) blockchain live transaction visualizer. Every tx is a person, and they fill up buses which represent blocks. 
+  
