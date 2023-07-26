@@ -10,3 +10,7 @@
   url: https://www.mevwatch.info/
   img: https://www.mevwatch.info/favicon.ico
   description: Some MEV-Boost relays are regulated under OFAC and will censor certain transactions. Use this tool to observe the effect it's having on Ethereum blocks.
+- name: MEV Panda
+  url: https://www.mevpanda.com/
+  img: https://www.mevpanda.com/favicon-32x32.png
+  description: Open Source statistics for mev-boost ecosystem
