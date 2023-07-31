@@ -62,4 +62,8 @@
   url: https://txstreet.com/v/eth-btc
   img: https://txstreet.com/static/img/icons/favicon-32x32.png?v=1.4.1
   description: Cryptocurrency (Bitcoin, Ethereum etc) blockchain live transaction visualizer. Every tx is a person, and they fill up buses which represent blocks. 
-  
+ - name: DEX Tracker - Tool for Tracking Crypto Prices & Charts | GeckoTerminal
+  url: https://www.geckoterminal.com/
+  img: https://www.geckoterminal.com/images/favicon.ico
+  description: Monitor your portfolio with our DeFi tracker tool. View crypto price, live charts, and transaction detail on decentralized exchanges across ETH, BSC, Polygon and more. Our DEX tracker is now tracking 104 networks, 628 dexes, 1.8M pools, and 1.6M token prices.
+   
