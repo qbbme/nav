@@ -62,3 +62,7 @@
   url: https://tools.qbb.me/calldata-decoder
   img: https://wujunze.com/blog-images/r/pic/tools.qbb.me_eth-unit-conversion.png
   description: A handy toolset for every Ethereum developer    
+- name: Contracts · XSCAN
+  url: https://xscan.cc
+  img: https://s21.ax1x.com/2024/07/02/pkgU2iq.png
+  description: Read, find similar and decompile smart contracts on ethereum, bsc and arbitrum   
