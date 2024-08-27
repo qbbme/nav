@@ -38,7 +38,7 @@ menu:
     config: Analyses
   - name: 分型测试网
     icon: fas fa-bitcoin
-    config: Analyses
+    config: FractalTest
   - name: 加密钱包
     icon: fas fa-wallet
     config: Wallet
