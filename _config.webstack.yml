@@ -36,6 +36,9 @@ menu:
   - name: 数据分析
     icon: fas fa-chart-bar
     config: Analyses
+  - name: 分型测试网
+    icon: fas fa-bitcoin
+    config: Analyses
   - name: 加密钱包
     icon: fas fa-wallet
     config: Wallet
