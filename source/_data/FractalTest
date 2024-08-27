@@ -1,0 +1,12 @@
+- name: mempool
+  url: https://mempool-testnet.fractalbitcoin.io
+  img: https://mempool-testnet.fractalbitcoin.io/resources/favicons/apple-touch-icon.png
+  description: Explore the full Bitcoin ecosystem with The Mempool Open Source Project®. See the real-time status of your transactions, get network info, and more.
+- name: explorer
+  url: https://explorer-testnet.fractalbitcoin.io/
+  img: https://explorer-testnet.fractalbitcoin.io/img/favicon.ico
+  description: UniSat Wallet - the first open-source browser extension wallet for Bitcoin NFTs!
+- name: unisat
+  url: https://fractal-testnet.unisat.io/
+  img: https://fractal-testnet.unisat.io/img/favicon.ico
+  description: UniSat Wallet - the first open-source browser extension wallet for Bitcoin NFTs!
