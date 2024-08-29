@@ -37,14 +37,14 @@ menu:
     icon: fas fa-chart-bar
     config: Analyses
   - name: 分型测试网
-    icon: fas fa-bitcoin
+    icon: fab fa-bitcoin
     config: FractalTest
   - name: 加密钱包
     icon: fas fa-wallet
     config: Wallet
   - name: 科学家工具
     icon:  fas fa-tools
-    config: ScientistTools    
+    config:     
   - name: NFT工具
     icon: fas fa-images
     config: NFT
