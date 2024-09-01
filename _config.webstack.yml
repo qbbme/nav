@@ -44,7 +44,7 @@ menu:
     config: Wallet
   - name: 科学家工具
     icon:  fas fa-tools
-    config:     
+    config: ScientistTools  
   - name: NFT工具
     icon: fas fa-images
     config: NFT
